@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "slug": "bella-vida-magic",
+      "nome": "Bella Vida Magic",
+      "subtitulo": "12 quartos temáticos para até 28 hóspedes no Bella Vida Resort",
+      "endereco": "298 Marcello Boulevard, Kissimmee, FL 34746",
+      "comunidade": "Bella Vida Resort",
+      "distancia_disney": "7,3 milhas",
+      "quartos": 12, "camas": 15, "banheiros": 11.5, "hospedes": 28,
+      "pasta_fotos": "LOCAL 1/IMAGENS WEBP/",
+      "comodidades": ["Quartos temáticos","Piscina & spa privativos","Water park do resort","Fitness center","Bar & grill","Cinema em casa","Cozinha completa","Wi-Fi"],
+      "destaques": ["Quarto Mickey & Minnie","Quarto Super Mario","Home theater"]
+    },
+    {
+      "slug": "amazing-friends",
+      "nome": "Amazing Friends",
+      "subtitulo": "5 quartos para até 16 hóspedes com piscina privativa",
+      "endereco": "3922 Lana Avenue, Davenport, FL 33897",
+      "distancia_disney": "15 min",
+      "quartos": 5, "hospedes": 16,
+      "distribuicao_camas": "Q1 King, Q2 2 twin XL, Q3 King, Q4 King, Q5 4 beliches",
+      "pasta_fotos": "LOCAL 2/IMAGENS WEBP/",
+      "comodidades": ["Piscina privativa","Lazy river","Cozinha completa","Churrasqueira","Wi-Fi","Smart TV","Ar-condicionado","Máquina de lavar","Piscina aquecida (taxa extra)","Pet friendly (taxa extra)"],
+      "destaques": ["Piscina só sua","Até 16 hóspedes","5 min de Publix","15 min da Disney"]
+    }
+  ]
+}
