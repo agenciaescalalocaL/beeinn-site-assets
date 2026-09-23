@@ -1,0 +1,14 @@
+{
+  "cdn_base": "https://cdn.jsdelivr.net/gh/agenciaescalalocaL/beeinn-site-assets@main",
+  "bella-vida-magic": {
+    "pasta": "LOCAL 1/IMAGENS WEBP/",
+    "hero_candidato": "imgi_2_155393-388086-RFKg9Y-SYq4sAhjNO--ROh2l6TTsjuiBkP32U4DtOV-Y-68193d4632481.webp",
+    "quarto_mickey": "imgi_65_155393-388086-VEN21Jmn1BXoHJ8x3QWiZrSn2mkP5WoxjgMsrMDDIKw-68193d0488e5f.webp",
+    "quarto_mario": "imgi_7_155393-388086-ATB5XB6jyqFAdNZk1R3npFT4s28aJqsLUxYrGOInnhY-68193d4106499.webp",
+    "cinema": "imgi_6_155393-388086-5Ux5ZE6tdXSQozj6pM20hmTl8gC2T-Ye3w-rsJlhLa4-68193d41e75a8.webp"
+  },
+  "amazing-friends": {
+    "pasta": "LOCAL 2/IMAGENS WEBP/",
+    "hero_candidato": "imgi_2_155393-388093-iyLvvxGxLsz0Exn3ePA49FYLvfN5PU1EZ0zYs7PTkbc-68193c21e7445.webp"
+  }
+}
